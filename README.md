@@ -24,8 +24,7 @@ This project focuses on manual API testing of e-commerce APIs using Postman. It 
 - Potential defect identification and reporting
 
 ## Project Files
-- `E-Commerce_API_Test_Cases_v2.xlsx — Test cases and execution results.
-- `Carts_API_Bug_Reports.xlsx — Potential defects identified during testing.
+- E-Commerce_API_Test_Cases.xlsx — Test cases and execution results.
 - Postman collection JSON — Saved API requests.
 
 ## Important Note
